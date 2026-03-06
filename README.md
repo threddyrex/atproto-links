@@ -1,1 +1,88 @@
-# atproto-links
+# ATProto Links
+
+A set of links for atproto.
+
+
+- PDS implementations
+  - [threddyrex/dnproto](https://github.com/threddyrex/dnproto)
+  - [threddyrex/rustproto](https://github.com/threddyrex/rustproto)
+  - [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds)
+  - [haleyok/cocoon](https://tangled.org/hailey.at/cocoon)
+  - [ascorbic/cirrus](https://github.com/ascorbic/cirrus)
+  - [blacksky/rsky](https://github.com/blacksky-algorithms/rsky)
+  - [tranquil](https://tangled.org/tranquil.farm/tranquil-pds)
+  - [pds.js](https://tangled.org/chadtmiller.com/pds.js)
+  - [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus)
+- Docs related to implementing a PDS
+  - [docs.bsky.app - AT Protocol XRPC API](https://docs.bsky.app/docs/api/at-protocol-xrpc-api)
+  - [event stream - atproto](https://atproto.com/specs/event-stream)
+  - [repository - atproto](https://atproto.com/specs/repository)
+  - [API hosts and Auth](https://docs.bsky.app/docs/advanced-guides/api-directory)
+  - [HTTP API (XRPC) - Service Proxy](https://atproto.com/specs/xrpc#service-proxying)
+  - [What does a PDS implementation entail?](https://github.com/bluesky-social/atproto/discussions/2350)
+  - [Adversarial ATProto PDS Migration](https://www.da.vidbuchanan.co.uk/blog/adversarial-pds-migration.html)
+  - [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream)
+  - [bluesky-social/pds](https://github.com/bluesky-social/pds)
+  - [bluesky-social/pds/ACCOUNT_MIGRATION](https://github.com/bluesky-social/pds/blob/main/ACCOUNT_MIGRATION.md)
+  - [multiformats](https://github.com/multiformats/multicodec/blob/master/table.csv)
+- dev docs
+  - [atproto.com](https://atproto.com/)
+  - [atproto.com - Quick start guide to building applications on AT Protocol](https://atproto.com/guides/applications)
+  - [docs.bsky.app - PDS Entryway](https://docs.bsky.app/docs/advanced-guides/entryway)
+  - [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
+  - [What does an AppView implementation entail?](https://github.com/bluesky-social/atproto/discussions/2961)
+  - [Federation Architecture Overview - Bluesky](https://bsky.social/about/blog/5-5-2023-federation-architecture)
+  - [Fission Tech Talks: Bluesky and PLC](https://www.youtube.com/watch?v=m9AVUAUDC2A)
+  - [Bluesky and the AT Protocol: Usable Decentralized Social Media (arxiv.org)](https://arxiv.org/pdf/2402.03239)
+- did:web
+  - [account creation with bsky-did-web](https://github.com/afternooncurry/bsky-did-web)
+  - [AT Protocol DIDs](https://atproto.com/specs/did)
+  - [Resolving Identities | Bluesky](https://docs.bsky.app/docs/advanced-guides/resolving-identities)
+  - [known issue with CORS - fixing PDSls](https://github.com/notjuliet/pdsls/issues/5)
+  - [threddyrex.org/.well-known/did.json](https://threddyrex.org/.well-known/did.json)
+- discussion
+  - [Discord: ATProto Touchers](https://discord.gg/3srmDsHSZJ) - main Discord server
+  - [Github: atproto discussions](https://github.com/bluesky-social/atproto/discussions)
+  - [Github: pds discussions](https://github.com/bluesky-social/pds/discussions)
+- plc.directory
+  - [ResolveDid](https://plc.directory/did:plc:watmxkxfjbwyxfuutganopfk)
+  - [GetPlcOpLog (log)](https://plc.directory/did:plc:watmxkxfjbwyxfuutganopfk/log)
+  - [GetPlcAuditLog (log/audit)](https://plc.directory/did:plc:watmxkxfjbwyxfuutganopfk/log/audit)
+  - [GetLastOp (log/last)](https://plc.directory/did:plc:watmxkxfjbwyxfuutganopfk/log/last)
+  - [GetPlcData (data)](https://plc.directory/did:plc:watmxkxfjbwyxfuutganopfk/data)
+  - [Export](https://plc.directory/export?count=10&after=2024-12-08T20:33:04Z)
+- self-hosting with the reference PDS
+  - [github/bluesky-social/pds](https://github.com/bluesky-social/pds)
+  - [bnewbold: Migrating PDS Account with 'goat'](https://whtwnd.com/bnewbold.net/3l5ii332pf32u)
+  - [Two-factor auth does not work (issue #99)](https://github.com/bluesky-social/pds/issues/99)
+  - [Two-factor auth feature request (issue #1071)](https://github.com/bluesky-social/social-app/issues/1071)
+  - [Can't deactivate old account via goat - do it with web instead](https://github.com/bluesky-social/atproto/issues/3149)
+  - [How to self-host all of Bluesky except the AppView](https://alice.bsky.sh/post/3laega7icmi2q)
+  - [Notes on Running a Full-Network atproto Relay (July 2024)](https://whtwnd.com/bnewbold.net/entries/Notes%20on%20Running%20a%20Full-Network%20atproto%20Relay%20(July%202024))
+  - [A broken relay - relayhound debugging](https://blooym.dev/blog/setting-up-at-pds#a-broken-relay)
+  - [self-hosting PDS not getting picked up by relay - github issue](https://github.com/bluesky-social/atproto/discussions/4258)
+- source code
+  - [bluesky-social](https://github.com/bluesky-social/)
+  - [bluesky-social/atproto/lexicons](https://github.com/bluesky-social/atproto/tree/main/lexicons)
+  - [bluesky-social/indigo](https://github.com/bluesky-social/indigo/)
+  - [bluesky-social/indigo/cmd/goat](https://github.com/bluesky-social/indigo/tree/main/cmd/goat)
+  - [bluesky-social/goat](https://github.com/bluesky-social/goat)
+  - [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream)
+  - [bluesky-social/pds](https://github.com/bluesky-social/pds)
+  - [aendra-rininsland/xblock](https://github.com/aendra-rininsland/xblock)
+  - [beeman/awesome-atproto](https://github.com/beeman/awesome-atproto)
+  - [did-method-plc/did-method-plc](https://github.com/did-method-plc/did-method-plc)
+  - [mary-ext/atproto-scraping](https://github.com/mary-ext/atproto-scraping)
+  - [mary-ext/atproto-scraping/state.json](https://github.com/mary-ext/atproto-scraping/blob/trunk/state.json)
+- stats
+  - [blue.mackuba.eu](https://blue.mackuba.eu/)
+  - [Bluesky User Count (bsky-users.theo.io)](https://bsky-users.theo.io/)
+  - [Bluesky service status (status.bsky.app)](https://status.bsky.app/)
+  - [bsky.jazco.dev/stats](https://bsky.jazco.dev/stats)
+- apps
+  - [Tangled](https://tangled.sh)
+  - [Leaflet - Home](https://leaflet.pub/home)
+- tools
+  - [bsky-debug](https://bsky-debug.app/handle)
+
+
