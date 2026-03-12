@@ -7,7 +7,7 @@ A set of links for atproto.
   - [threddyrex/dnproto](https://github.com/threddyrex/dnproto)
   - [threddyrex/rustproto](https://github.com/threddyrex/rustproto)
   - [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds)
-  - [haleyok/cocoon](https://tangled.org/hailey.at/cocoon)
+  - [hailey.at/cocoon](https://tangled.org/hailey.at/cocoon)
   - [ascorbic/cirrus](https://github.com/ascorbic/cirrus)
   - [blacksky/rsky](https://github.com/blacksky-algorithms/rsky)
   - [tranquil.farm/tranquil](https://tangled.org/tranquil.farm/tranquil-pds)
