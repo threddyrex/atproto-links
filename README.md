@@ -13,7 +13,7 @@
 - [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus)
 - [samuelgoto/micropod](https://github.com/samuelgoto/micropod)
 - [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky)
-
+- [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow)
 
 
 ## Docs related to implementing a PDS
