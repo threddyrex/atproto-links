@@ -1,7 +1,3 @@
-# atproto links
-
-A set of links for atproto.
-
 
 ## PDS implementations
 
