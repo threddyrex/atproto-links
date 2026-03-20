@@ -29,6 +29,7 @@
 - [bluesky-social/pds](https://github.com/bluesky-social/pds)
 - [multiformats](https://github.com/multiformats/multicodec/blob/master/table.csv)
 - [docs.bsky.app - PDS Entryway](https://docs.bsky.app/docs/advanced-guides/entryway)
+- [alice.mosphere.at/atproto-smoke - smoke tests for an atproto PDS](https://tangled.org/alice.mosphere.at/atproto-smoke)
 
 
 ## Self-hosting the Bluesky reference PDS
