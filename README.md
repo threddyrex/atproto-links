@@ -25,9 +25,7 @@
 - [HTTP API (XRPC) - Service Proxy](https://atproto.com/specs/xrpc#service-proxying)
 - [What does a PDS implementation entail?](https://github.com/bluesky-social/atproto/discussions/2350)
 - [Adversarial ATProto PDS Migration](https://www.da.vidbuchanan.co.uk/blog/adversarial-pds-migration.html)
-- [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream)
 - [bluesky-social/pds](https://github.com/bluesky-social/pds)
-- [bluesky-social/pds/ACCOUNT_MIGRATION](https://github.com/bluesky-social/pds/blob/main/ACCOUNT_MIGRATION.md)
 - [multiformats](https://github.com/multiformats/multicodec/blob/master/table.csv)
 - [docs.bsky.app - PDS Entryway](https://docs.bsky.app/docs/advanced-guides/entryway)
 
@@ -35,6 +33,7 @@
 ## Self-hosting the Bluesky reference PDS
 
 - [github/bluesky-social/pds](https://github.com/bluesky-social/pds)
+- [bluesky-social/pds/ACCOUNT_MIGRATION](https://github.com/bluesky-social/pds/blob/main/ACCOUNT_MIGRATION.md)
 - [bnewbold: Migrating PDS Account with 'goat'](https://whtwnd.com/bnewbold.net/3l5ii332pf32u)
 - [Two-factor auth does not work (issue #99)](https://github.com/bluesky-social/pds/issues/99)
 - [Two-factor auth feature request (issue #1071)](https://github.com/bluesky-social/social-app/issues/1071)
@@ -51,6 +50,7 @@
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto/tree/main/packages/bsky)
 - [grain.social/grain](https://tangled.org/grain.social/grain/tree/main/appview)
 - [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview)
+- [streamplace/streamplace](https://github.com/streamplace/streamplace)
 
 
 ## Implementing an AppView
