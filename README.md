@@ -87,7 +87,9 @@
 - [known issue with CORS - fixing PDSls](https://github.com/notjuliet/pdsls/issues/5)
 - [threddyrex.org/.well-known/did.json](https://threddyrex.org/.well-known/did.json)
 
+## atproto apps
 
+- [atmosphere-apps (by Ariel M. (she/her)) — Semble](https://semble.so/profile/byarielm.fyi/collections/3mfdje7uuhu2r) - list of 180+ apps (and growing)
 
 
 
