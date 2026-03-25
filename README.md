@@ -2,19 +2,21 @@
 
 ## PDS implementations
 
-- [bluesky-social/pds](https://github.com/bluesky-social/pds)
-- [threddyrex/dnproto](https://github.com/threddyrex/dnproto)
-- [threddyrex/rustproto](https://github.com/threddyrex/rustproto)
-- [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds)
-- [hailey.at/cocoon](https://tangled.org/hailey.at/cocoon)
-- [ascorbic/cirrus](https://github.com/ascorbic/cirrus)
-- [blacksky/rsky](https://github.com/blacksky-algorithms/rsky)
-- [tranquil.farm/tranquil](https://tangled.org/tranquil.farm/tranquil-pds)
-- [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js)
-- [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus)
-- [samuelgoto/micropod](https://github.com/samuelgoto/micropod)
-- [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky)
-- [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow)
+| Implementation | Language(s) |
+| --- | --- |
+| [bluesky-social/pds](https://github.com/bluesky-social/pds) | TypeScript, Go |
+| [threddyrex/rustproto](https://github.com/threddyrex/rustproto) | Rust |
+| [threddyrex/dnproto](https://github.com/threddyrex/dnproto) | C# |
+| [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) | Python |
+| [hailey.at/cocoon](https://tangled.org/hailey.at/cocoon) | Go |
+| [ascorbic/cirrus](https://github.com/ascorbic/cirrus) | TypeScript |
+| [blacksky/rsky](https://github.com/blacksky-algorithms/rsky) | Rust |
+| [tranquil.farm/tranquil](https://tangled.org/tranquil.farm/tranquil-pds) | Rust |
+| [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript |
+| [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml |
+| [samuelgoto/micropod](https://github.com/samuelgoto/micropod) | JavaScript |
+| [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky) | Perl |
+| [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow) | Go |
 
 
 ## Implementing a PDS
