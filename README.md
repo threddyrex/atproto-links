@@ -18,6 +18,7 @@
 | [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript | January, 2026 |
 | [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) | Python | October, 2025 |
 | [quilling.dev/bluepds](https://tangled.org/quilling.dev/bluepds) | Rust | May, 2025 |
+| [PassiveModding/atompds](https://github.com/PassiveModding/atompds) | C# | January, 2025 |
 
 
 ## Implementing a PDS
