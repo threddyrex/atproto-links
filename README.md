@@ -58,10 +58,12 @@
 
 ## AppView implementations
 
-- [bluesky-social/atproto](https://github.com/bluesky-social/atproto/tree/main/packages/bsky)
-- [grain.social/grain](https://tangled.org/grain.social/grain/tree/main/appview)
-- [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview)
-- [streamplace/streamplace](https://github.com/streamplace/streamplace)
+| Implementation | Language(s) | Last Updated |
+| --- | --- | --- |
+| [bluesky-social/atproto](https://github.com/bluesky-social/atproto/tree/main/packages/bsky) | TypeScript, Go | March, 2026 |
+| [grainsocial/grain](https://github.com/grainsocial/grain) | TypeScript, Svelte | March, 2026 |
+| [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview) | TypeScript, Rust | March, 2026 |
+| [streamplace/streamplace](https://github.com/streamplace/streamplace) | TypeScript, Go | March, 2026 |
 
 
 ## Implementing an AppView
