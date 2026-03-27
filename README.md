@@ -16,9 +16,14 @@
 | [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky) | Perl | March, 2026 |
 | [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow) | Go | March, 2026 |
 | [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript | January, 2026 |
+| [mary.my.id/danaus](https://tangled.org/mary.my.id/danaus) | TypeScript | January, 2026 |
+| [desertthunder.dev/PDSharp](https://tangled.org/desertthunder.dev/PDSharp) | F# | January, 2026 |
+| [alteran-social/alteran](https://github.com/alteran-social/alteran) | TypeScript | November, 2025 |
 | [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) | Python | October, 2025 |
 | [quilling.dev/bluepds](https://tangled.org/quilling.dev/bluepds) | Rust | May, 2025 |
+| [NetWatchInc/hexpds](https://github.com/NetWatchInc/hexpds) | Elixir | February, 2025 |
 | [PassiveModding/atompds](https://github.com/PassiveModding/atompds) | C# | January, 2025 |
+| [DavidBuchanan314/picopds](https://github.com/DavidBuchanan314/picopds) | Python | November, 2024 |
 
 
 ## Implementing a PDS
