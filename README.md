@@ -15,6 +15,7 @@
 | [samuelgoto/micropod](https://github.com/samuelgoto/micropod) | JavaScript | March, 2026 |
 | [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky) | Perl | March, 2026 |
 | [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow) | Go | March, 2026 |
+| [snarfed/arroba](https://github.com/snarfed/arroba) | Python | March, 2026 |
 | [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript | January, 2026 |
 | [mary.my.id/danaus](https://tangled.org/mary.my.id/danaus) | TypeScript | January, 2026 |
 | [desertthunder.dev/PDSharp](https://tangled.org/desertthunder.dev/PDSharp) | F# | January, 2026 |
