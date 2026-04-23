@@ -2,7 +2,7 @@
 
 ## PDS implementations
 
-| Implementation | Language(s) | Last Updated | ⭐ |
+| Implementation | Language(s) | Last Updated | ⭐ (Repo Stars) |
 | --- | --- | --- | --- |
 | [bluesky-social/pds](https://github.com/bluesky-social/pds) | TypeScript, Go | April, 2026 | 2,474 |
 | [blacksky/rsky](https://github.com/blacksky-algorithms/rsky) | Rust | April, 2026 | 657 |
