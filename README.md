@@ -9,6 +9,7 @@
 | [tranquil.farm/tranquil](https://tangled.org/tranquil.farm/tranquil-pds) | Rust | April, 2026 | 224 |
 | [snarfed/arroba](https://github.com/snarfed/arroba) | Python | April, 2026 | 76 |
 | [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml | April, 2026 | 67 |
+| [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | April, 2026 | 15 |
 | [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky) | Perl | April, 2026 | 14 |
 | [threddyrex/dnproto](https://github.com/threddyrex/dnproto) | C# | April, 2026 | 11 |
 | [mary.my.id/danaus](https://tangled.org/mary.my.id/danaus) | TypeScript | April, 2026 | 4 |
