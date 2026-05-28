@@ -4,26 +4,25 @@
 
 | Implementation | Language(s) | Last Updated | ⭐ (Repo Stars) |
 | --- | --- | --- | --- |
-| [bluesky-social/pds](https://github.com/bluesky-social/pds) | TypeScript, Go | April, 2026 | 2,474 |
-| [blacksky/rsky](https://github.com/blacksky-algorithms/rsky) | Rust | April, 2026 | 657 |
-| [tranquil.farm/tranquil](https://tangled.org/tranquil.farm/tranquil-pds) | Rust | April, 2026 | 224 |
-| [snarfed/arroba](https://github.com/snarfed/arroba) | Python | April, 2026 | 76 |
-| [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml | April, 2026 | 67 |
-| [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | April, 2026 | 15 |
-| [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky) | Perl | April, 2026 | 14 |
-| [threddyrex/dnproto](https://github.com/threddyrex/dnproto) | C# | April, 2026 | 11 |
-| [mary.my.id/danaus](https://tangled.org/mary.my.id/danaus) | TypeScript | April, 2026 | 4 |
-| [threddyrex/rustproto](https://github.com/threddyrex/rustproto) | Rust | April, 2026 | 2 |
-| [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow) | Go | April, 2026 | 2 |
-| [ascorbic/cirrus](https://github.com/ascorbic/cirrus) | TypeScript | March, 2026 | 245 |
-| [hailey.at/cocoon](https://tangled.org/hailey.at/cocoon) | Go | March, 2026 | 103 |
-| [samuelgoto/micropod](https://github.com/samuelgoto/micropod) | JavaScript | March, 2026 | 9 |
-| [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript | January, 2026 | 46 |
+| [bluesky-social/pds](https://github.com/bluesky-social/pds) | TypeScript, Go | May, 2026 | 2,512 |
+| [blacksky/rsky](https://github.com/blacksky-algorithms/rsky) | Rust | May, 2026 | 667 |
+| [tranquil.farm/tranquil](https://tangled.org/tranquil.farm/tranquil-pds) | Rust | May, 2026 | 313 |
+| [ascorbic/cirrus](https://github.com/ascorbic/cirrus) | TypeScript | May, 2026 | 275 |
+| [haileyok/cocoon](https://github.com/haileyok/cocoon) | Go | May, 2026 | 94 |
+| [snarfed/arroba](https://github.com/snarfed/arroba) | Python | May, 2026 | 78 |
+| [alteran-social/alteran](https://github.com/alteran-social/alteran) | TypeScript | May, 2026 | 25 |
+| [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | May, 2026 | 20 |
+| [threddyrex/dnproto](https://github.com/threddyrex/dnproto) | C# | May, 2026 | 12 |
+| [threddyrex/rustproto](https://github.com/threddyrex/rustproto) | Rust | May, 2026 | 6 |
+| [mary.my.id/danaus](https://tangled.org/mary.my.id/danaus) | TypeScript | May, 2026 | 4 |
+| [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow) | Go | May, 2026 | 1 |
+| [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml | April, 2026 | 72 |
+| [samuelgoto/micropod](https://github.com/samuelgoto/micropod) | JavaScript | April, 2026 | 11 |
+| [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky) | Perl | March, 2026 | 14 |
+| [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript | January, 2026 | 47 |
 | [desertthunder.dev/PDSharp](https://tangled.org/desertthunder.dev/PDSharp) | F# | January, 2026 | 5 |
-| [alteran-social/alteran](https://github.com/alteran-social/alteran) | TypeScript | November, 2025 | 22 |
-| [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) | Python | October, 2025 | 153 |
-| [quilling.dev/bluepds](https://tangled.org/quilling.dev/bluepds) | Rust | May, 2025 | 6 |
-| [NetWatchInc/hexpds](https://github.com/NetWatchInc/hexpds) | Elixir | February, 2025 | 41 |
+| [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) | Python | October, 2025 | 154 |
+| [NetWatchInc/hexpds](https://github.com/NetWatchInc/hexpds) | Elixir | February, 2025 | 42 |
 | [PassiveModding/atompds](https://github.com/PassiveModding/atompds) | C# | January, 2025 | 27 |
 | [DavidBuchanan314/picopds](https://github.com/DavidBuchanan314/picopds) | Python | November, 2024 | 73 |
 
