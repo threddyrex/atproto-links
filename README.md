@@ -16,6 +16,7 @@
 | [threddyrex/rustproto](https://github.com/threddyrex/rustproto) | Rust | May, 2026 | 6 |
 | [mary.my.id/danaus](https://tangled.org/mary.my.id/danaus) | TypeScript | May, 2026 | 4 |
 | [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow) | Go | May, 2026 | 1 |
+| [niallbunting.com/localpds](https://tangled.org/niallbunting.com/localpds/) | JavaScript, HTML | May, 2026 | 0 |
 | [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml | April, 2026 | 72 |
 | [samuelgoto/micropod](https://github.com/samuelgoto/micropod) | JavaScript | April, 2026 | 11 |
 | [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky) | Perl | March, 2026 | 14 |
@@ -25,6 +26,7 @@
 | [NetWatchInc/hexpds](https://github.com/NetWatchInc/hexpds) | Elixir | February, 2025 | 42 |
 | [PassiveModding/atompds](https://github.com/PassiveModding/atompds) | C# | January, 2025 | 27 |
 | [DavidBuchanan314/picopds](https://github.com/DavidBuchanan314/picopds) | Python | November, 2024 | 73 |
+
 
 
 ## Implementing a PDS
