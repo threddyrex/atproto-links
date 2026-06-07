@@ -13,6 +13,7 @@
 | [alteran-social/alteran](https://github.com/alteran-social/alteran) | TypeScript | May, 2026 | 25 |
 | [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | May, 2026 | 20 |
 | [threddyrex/dnproto](https://github.com/threddyrex/dnproto) | C# | May, 2026 | 12 |
+| [lucid-softworks/pds](https://github.com/lucid-softworks/pds) | TypeScript | May, 2026 | 7 |
 | [threddyrex/rustproto](https://github.com/threddyrex/rustproto) | Rust | May, 2026 | 6 |
 | [mary.my.id/danaus](https://tangled.org/mary.my.id/danaus) | TypeScript | May, 2026 | 4 |
 | [julien.rbrt.fr/vow](https://tangled.org/julien.rbrt.fr/vow) | Go | May, 2026 | 1 |
