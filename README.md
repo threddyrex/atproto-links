@@ -32,6 +32,7 @@
 
 ## Implementing a PDS
 
+- [threddyrex - Ten Steps to a PDS](https://github.com/threddyrex/rustproto/blob/main/docs/articles/ten-steps-to-a-pds.md)
 - [docs.bsky.app - AT Protocol XRPC API](https://docs.bsky.app/docs/api/at-protocol-xrpc-api)
 - [event stream - atproto](https://atproto.com/specs/event-stream)
 - [repository - atproto](https://atproto.com/specs/repository)
