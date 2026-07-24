@@ -1,6 +1,8 @@
 
+&nbsp;
 
-## PDS implementations
+# PDS implementations
+
 
 | Implementation | Language(s) | Last Updated | ⭐ (Repo Stars) |
 | --- | --- | --- | --- |
@@ -28,7 +30,22 @@
 | [PassiveModding/atompds](https://github.com/PassiveModding/atompds) | C# | January, 2025 | 27 |
 | [DavidBuchanan314/picopds](https://github.com/DavidBuchanan314/picopds) | Python | November, 2024 | 73 |
 
+&nbsp;
 
+# AppView implementations
+
+| Implementation | Language(s) | Last Updated |
+| --- | --- | --- |
+| [bluesky-social/atproto](https://github.com/bluesky-social/atproto/tree/main/packages/bsky) | TypeScript, Go | May, 2026 |
+| [grainsocial/grain](https://github.com/grainsocial/grain) | TypeScript, Svelte | May, 2026 |
+| [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview) | TypeScript, Rust | May, 2026 |
+| [streamplace/streamplace](https://github.com/streamplace/streamplace) | TypeScript, Go | May, 2026 |
+
+
+&nbsp;
+
+
+# Links
 
 ## Implementing a PDS
 
@@ -60,15 +77,6 @@
 - [self-hosting PDS not getting picked up by relay - github issue](https://github.com/bluesky-social/atproto/discussions/4258)
 
 
-
-## AppView implementations
-
-| Implementation | Language(s) | Last Updated |
-| --- | --- | --- |
-| [bluesky-social/atproto](https://github.com/bluesky-social/atproto/tree/main/packages/bsky) | TypeScript, Go | May, 2026 |
-| [grainsocial/grain](https://github.com/grainsocial/grain) | TypeScript, Svelte | May, 2026 |
-| [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview) | TypeScript, Rust | May, 2026 |
-| [streamplace/streamplace](https://github.com/streamplace/streamplace) | TypeScript, Go | May, 2026 |
 
 
 ## Implementing an AppView
