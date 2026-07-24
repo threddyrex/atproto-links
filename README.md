@@ -33,12 +33,12 @@
 
 # AppView implementations
 
-| Implementation | Language(s) | Last Updated |
-| --- | --- | --- |
-| [bluesky-social/atproto](https://github.com/bluesky-social/atproto/tree/main/packages/bsky) | TypeScript, Go | May, 2026 |
-| [grainsocial/grain](https://github.com/grainsocial/grain) | TypeScript, Svelte | May, 2026 |
-| [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview) | TypeScript, Rust | May, 2026 |
-| [streamplace/streamplace](https://github.com/streamplace/streamplace) | TypeScript, Go | May, 2026 |
+| Implementation | Language(s) | Last Updated | ⭐ (Repo Stars) |
+| --- | --- | --- | --- |
+| [bluesky-social/atproto](https://github.com/bluesky-social/atproto/tree/main/packages/bsky) | TypeScript, Go | July, 2026 | 9,549 |
+| [streamplace/streamplace](https://github.com/streamplace/streamplace) | TypeScript, Go | July, 2026 | 227 |
+| [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview) | TypeScript, Rust | July, 2026 | 79 |
+| [grainsocial/grain](https://github.com/grainsocial/grain) | TypeScript, Svelte | July, 2026 | 44 |
 
 
 &nbsp;
