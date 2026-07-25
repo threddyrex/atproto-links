@@ -18,6 +18,7 @@
 | [threddyrex/dnproto](https://github.com/threddyrex/dnproto) | C# | July, 2026 | 13 |
 | [lucid-softworks/pds](https://github.com/lucid-softworks/pds) | TypeScript | June, 2026 | 9 |
 | [threddyrex/rustproto](https://github.com/threddyrex/rustproto) | Rust | July, 2026 | 9 |
+| [brookie.blog/gleam-pds](https://tangled.org/brookie.blog/gleam-pds) | Gleam | July, 2026 | 9 |
 | [malpercio-dev/ezpds](https://github.com/malpercio-dev/ezpds) | Rust | July, 2026 | - |
 
 
