@@ -12,6 +12,7 @@
 | [haileyok/cocoon](https://github.com/haileyok/cocoon) | Go | July, 2026 | 107 |
 | [snarfed/arroba](https://github.com/snarfed/arroba) | Python | July, 2026 | 78 |
 | [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml | May, 2026 | 74 |
+| [ngerakines.me/atproto-crates](https://tangled.org/ngerakines.me/atproto-crates) | Rust | July, 2026 | 34 |
 | [alteran-social/alteran](https://github.com/alteran-social/alteran) | TypeScript | June, 2026 | 27 |
 | [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | July, 2026 | 26 |
 | [niallbunting.com/localpds](https://tangled.org/niallbunting.com/localpds/) | JavaScript, HTML | June, 2026 | 21 |
