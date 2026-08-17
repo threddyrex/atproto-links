@@ -51,6 +51,7 @@ Archived:
 | [alnkesq/AppViewLite](https://github.com/alnkesq/AppViewLite) | C# | July, 2026 | 199 |
 | [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview) | TypeScript, Rust | July, 2026 | 79 |
 | [grainsocial/grain](https://github.com/grainsocial/grain) | TypeScript, Svelte | July, 2026 | 44 |
+| [willdot.net/my-appview](https://tangled.org/willdot.net/my-appview) | Rust | May, 2026 | 18 |
 
 
 &nbsp;
