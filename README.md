@@ -12,6 +12,7 @@
 | [haileyok/cocoon](https://github.com/haileyok/cocoon) | Go | August, 2026 | 115 |
 | [snarfed/arroba](https://github.com/snarfed/arroba) | Python | August, 2026 | 78 |
 | [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml | August, 2026 | 77 |
+| [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript | August, 2026 | 49 |
 | [ngerakines.me/atproto-crates](https://tangled.org/ngerakines.me/atproto-crates) | Rust | August, 2026 | 39 |
 | [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | August, 2026 | 33 |
 | [alteran-social/alteran](https://github.com/alteran-social/alteran) | TypeScript | June, 2026 | 27 |
@@ -30,7 +31,6 @@ Archived:
 | --- | --- | --- | --- |
 | [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) | Python | October, 2025 | 157 |
 | [DavidBuchanan314/picopds](https://github.com/DavidBuchanan314/picopds) | Python | November, 2024 | 73 |
-| [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript | January, 2026 | 49 |
 | [NetWatchInc/hexpds](https://github.com/NetWatchInc/hexpds) | Elixir | February, 2025 | 44 |
 | [PassiveModding/atompds](https://github.com/PassiveModding/atompds) | C# | January, 2025 | 27 |
 | [alice.mosphere.at/perlsky](https://tangled.org/alice.mosphere.at/perlsky) | Perl | March, 2026 | 15 |
