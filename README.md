@@ -5,23 +5,23 @@
 
 | Implementation | Language(s) | Last Updated | ⭐ (Repo Stars) |
 | --- | --- | --- | --- |
-| [bluesky-social/pds](https://github.com/bluesky-social/pds) | TypeScript, Go | July, 2026 | 2,593 |
-| [blacksky/rsky](https://github.com/blacksky-algorithms/rsky) | Rust | July, 2026 | 688 |
-| [ascorbic/cirrus](https://github.com/ascorbic/cirrus) | TypeScript | May, 2026 | 423 |
-| [tranquil.farm/tranquil](https://tangled.org/tranquil.farm/tranquil-pds) | Rust | July, 2026 | 413 |
-| [haileyok/cocoon](https://github.com/haileyok/cocoon) | Go | July, 2026 | 107 |
-| [snarfed/arroba](https://github.com/snarfed/arroba) | Python | July, 2026 | 78 |
-| [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml | May, 2026 | 74 |
-| [ngerakines.me/atproto-crates](https://tangled.org/ngerakines.me/atproto-crates) | Rust | July, 2026 | 34 |
+| [bluesky-social/pds](https://github.com/bluesky-social/pds) | TypeScript, Go | August, 2026 | 2,611 |
+| [blacksky/rsky](https://github.com/blacksky-algorithms/rsky) | Rust | August, 2026 | 696 |
+| [ascorbic/cirrus](https://github.com/ascorbic/cirrus) | TypeScript | August, 2026 | 440 |
+| [tranquil.farm/tranquil](https://tangled.org/tranquil.farm/tranquil-pds) | Rust | August, 2026 | 475 |
+| [haileyok/cocoon](https://github.com/haileyok/cocoon) | Go | August, 2026 | 115 |
+| [snarfed/arroba](https://github.com/snarfed/arroba) | Python | August, 2026 | 78 |
+| [futur.blue/pegasus](https://tangled.org/futur.blue/pegasus) | OCaml | August, 2026 | 77 |
+| [ngerakines.me/atproto-crates](https://tangled.org/ngerakines.me/atproto-crates) | Rust | August, 2026 | 39 |
+| [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | August, 2026 | 33 |
 | [alteran-social/alteran](https://github.com/alteran-social/alteran) | TypeScript | June, 2026 | 27 |
-| [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | July, 2026 | 26 |
+| [brookie.blog/gleam-pds](https://tangled.org/brookie.blog/gleam-pds) | Gleam | July, 2026 | 24 |
 | [niallbunting.com/localpds](https://tangled.org/niallbunting.com/localpds/) | JavaScript, HTML | June, 2026 | 21 |
-| [threddyrex/dnproto](https://github.com/threddyrex/dnproto) | C# | July, 2026 | 13 |
+| [threddyrex/dnproto](https://github.com/threddyrex/dnproto) | C# | August, 2026 | 13 |
+| [threddyrex/rustproto](https://github.com/threddyrex/rustproto) | Rust | August, 2026 | 10 |
 | [lucid-softworks/pds](https://github.com/lucid-softworks/pds) | TypeScript | June, 2026 | 9 |
-| [threddyrex/rustproto](https://github.com/threddyrex/rustproto) | Rust | July, 2026 | 9 |
-| [brookie.blog/gleam-pds](https://tangled.org/brookie.blog/gleam-pds) | Gleam | July, 2026 | 9 |
-| [ewanc26/metalbear](https://github.com/ewanc26/metalbear) | C | July, 2026 | 3 |
-| [malpercio-dev/ezpds](https://github.com/malpercio-dev/ezpds) | Rust | July, 2026 | - |
+| [ewanc26/metalbear](https://github.com/ewanc26/metalbear) | C | August, 2026 | 6 |
+| [malpercio-dev/ezpds](https://github.com/malpercio-dev/ezpds) | Rust | August, 2026 | - |
 
 
 Archived:
