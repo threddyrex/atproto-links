@@ -64,7 +64,7 @@ Archived:
 | [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky/tree/main/rsky-relay) | Rust | August, 2026 | 696 |
 | [ptr.pet/hydrant](https://tangled.org/ptr.pet/hydrant) | Rust | August, 2026 | 94 |
 | [streamplace/atmoq](https://github.com/streamplace/atmoq) | Rust | July, 2026 | 16 |
-| [zat.dev/zlay](https://tangled.org/zat.dev/zlay) | Zig | August, 2026 | 14 |
+| [zat.dev/zlay](https://tangled.org/zat.dev/zlay) | Zig | August, 2026 | 6 |
 
 
 &nbsp;
