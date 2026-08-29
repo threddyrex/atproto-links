@@ -78,6 +78,7 @@ Archived:
 - [bksy.network/docs](https://bsky.network/docs/protocol-services) - docs landing page for BPS
 - [endpoints.bsky.app](https://endpoints.bsky.app/) - the Bluesky HTTP API reference
 - [atproto.com](https://atproto.com/) - atproto docs
+- [attie.ai](https://attie.ai/) - AI interface to Bluesky. If you have a question about atproto or Bluesky, this is a good place to get answers.
 
 
 &nbsp;
