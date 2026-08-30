@@ -54,6 +54,7 @@ Archived:
 | [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview) | TypeScript, Rust | August, 2026 | 87 |
 | [grainsocial/grain](https://github.com/grainsocial/grain) | TypeScript, Svelte | August, 2026 | 50 |
 | [willdot.net/my-appview](https://tangled.org/willdot.net/my-appview) | Rust | August, 2026 | 19 |
+| [why.bsky.world/konbini](https://tangled.org/why.bsky.world/konbini) | Go | October, 2025 | 26 |
 
 
 &nbsp;
