@@ -15,7 +15,7 @@
 | [ngerakines.me/atproto-crates](https://tangled.org/ngerakines.me/atproto-crates) | Rust | September, 2026 | 55 |
 | [chadtmiller.com/pds.js](https://tangled.org/chadtmiller.com/pds.js) | JavaScript | September, 2026 | 50 |
 | [zat.dev/zds](https://tangled.org/zat.dev/zds) | Zig | September, 2026 | 42 |
-| [jazware/vlpds](https://github.com/jazware/vlpds) | Rust | September, 2026 | 27 |
+| [jazware/vlpds](https://github.com/jazware/vlpds) 🆕| Rust | September, 2026 | 27 |
 | [brookie.blog/gleam-pds](https://tangled.org/brookie.blog/gleam-pds) | Gleam | July, 2026 | 26 |
 | [threddyrex/dnproto](https://github.com/threddyrex/dnproto) 🦖 | C# | September, 2026 | 13 |
 | [threddyrex/rustproto](https://github.com/threddyrex/rustproto) 🦖 | Rust | September, 2026 | 10 |
